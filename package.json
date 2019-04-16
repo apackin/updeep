@@ -47,7 +47,7 @@
     "gulp": "^3.6.0",
     "gulp-babel": "^7.0.1",
     "gulp-eslint": "^3.0.1",
-    "gulp-mocha": "^2.0.0",
+    "gulp-mocha": "^6.0.0",
     "karma": "^0.13.3",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-chrome-launcher": "^2.2.0",
